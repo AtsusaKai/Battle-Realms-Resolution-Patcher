@@ -120,7 +120,7 @@ namespace AtsusaKai.BRResPatcher.Forms
             lblDesc.Name = "lblDesc";
             lblDesc.Size = new Size(474, 37);
             lblDesc.TabIndex = 0;
-            lblDesc.Text = "This software is developed for Battle Realms Complete (GOG) v1.0.0.8 to allow custom resolutions with Battle Realms, including widescreen resolutions.";
+            lblDesc.Text = "This software is developed for Battle Realms + Winter of the Wolf (GOG version) to allow custom resolutions, including widescreen.";
             // 
             // label6
             // 
