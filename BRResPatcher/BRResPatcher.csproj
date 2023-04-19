@@ -10,6 +10,7 @@
     <RootNamespace>AtsusaKai.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
     <ApplicationIcon>Assets\icon.ico</ApplicationIcon>
     <Company>$(Authors)</Company>
+    <Copyright>Copyright © 2023 Karl Vincent Init</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
