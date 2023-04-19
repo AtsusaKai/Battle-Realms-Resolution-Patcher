@@ -21,4 +21,4 @@ This patcher currently supports GOG.com version of Battle Realms only, and was n
 * The "Normalize" button can be used to calculate the width based from an entered resolution height.
 
 ## Remarks
-I made this program for fun, a GUI inspired by Felix Krull's resolution patcher. If you found any bugs, you can email me at kai.atsusa@gmail.com.
+I made this program for fun, a GUI inspired by Felix Krull's resolution patcher written in Python. If you found any bugs, you can email me at kai.atsusa@gmail.com.
