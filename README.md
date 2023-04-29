@@ -9,7 +9,7 @@ Battle Realms is a real-time strategy video game published and released by Crave
 Battle Realms uses 4:3 aspect ratio with very low resolutions. This patcher allows for custom resolutions with (GOG) Battle Realms + Winter of the Wolf, including widescreen resolutions.
 
 ## Support
-This patcher currently supports GOG.com version of Battle Realms only, and was not tested with Steam's Battle Realms: Zen Edition (I haven't played that version yet, but it could work).
+This patcher currently supports GOG.com version of Battle Realms only. It doesn't work with Steam's Battle Realms: Zen Edition at the moment.
 
 ## How to Use
 1. Install "Battle Realms + Winter of the Wolf" - https://www.gog.com/en/game/battle_realms_winter_of_the_wolf.
